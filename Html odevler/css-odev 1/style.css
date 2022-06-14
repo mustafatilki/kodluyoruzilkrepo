@@ -1,0 +1,38 @@
+.logo{
+    color:red;
+    text-align: center;
+}
+.menu,.container{
+    text-align:center;
+}
+.menu-link{
+    text-decoration: none;
+    color:rgb(37, 35, 35);
+    padding: 15px;;
+}
+.page-title{
+    color: purple;
+    text-align: center;
+    font-size: 40px;
+}
+.heading-second{
+    text-align: center;
+    margin-top: 15px;
+    color:rgb(238, 204, 9);
+}
+.heading-left{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: medium;
+    color:rgb(238, 204, 9);
+}
+.product-menu{
+    text-align: center;
+}
+ul{
+list-style-position: inside;
+}
+.urun{
+    list-style: decimal;
+    list-style-position: inside;
+}
